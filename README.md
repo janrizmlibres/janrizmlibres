@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="left">Hi, I'm Janriz! 👋</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/janrizlibres" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -18,19 +16,19 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/janrizmlibres/janrizmlibres/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Janriz.<br><br>I'm a full-stack developer who is passionate about making positive contributions through code. I believe in the power of leveraging technology to augment people's lives and as a medium to share joy in a community.<br><br>👾 Fun fact: My coding journey began with creating games in an i3 laptop 😂 <br><br>More things about me...<br>- 🔭 I love learning about state-of-the-art algorithms<br>- 📚 I'm currently learning tools and technologies from the React ecosystem<br>- ⚡ In my free time I keep myself up to date with current technological trends<br>- 📩 How to reach me: libres.janriz@gmail.com<br>- ✨ Creating bugs since 2020</p>
+<img align="right" height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
+
+<p align="left">I'm a full-stack developer who is passionate about making positive contributions through code. I believe in the power of leveraging technology to augment people's lives and as a medium to share joy in a community.<br><br>👾 Fun fact: My coding journey began with creating games in an i3 laptop 😂 <br><br>More things about me...<br>- 🔭 I love learning about state-of-the-art algorithms<br>- 📚 I'm currently learning tools and technologies from the React ecosystem<br>- ⚡ In my free time I keep myself up to date with current technological trends<br>- 📩 How to reach me: libres.janriz@gmail.com<br>- ✨ Creating bugs since 2020</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/janrizmlibres/janrizmlibres/output/snake.svg" alt="Snake animation" />
 
 ###
 
